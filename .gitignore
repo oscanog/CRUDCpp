@@ -1,0 +1,7 @@
+x64/
+CRUDcpp/x64/
+CRUDcpp/CRUDcpp.vcxproj
+CRUDcpp/CRUDcpp.vcxproj.filters
+CRUDcpp/CRUDcpp.vcxproj.user
+*.opendb
+.vs/
